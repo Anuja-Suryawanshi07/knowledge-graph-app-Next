@@ -107,6 +107,11 @@ Deployed on Vercel
 ## 📸 Screenshots
 ### Graph View
 ![Graph View](./assets/Screenshot_1.png)
+### ✏️ Node Editing Panel
+![Edit Panel](./assets/Screenshot_2.png)
+
+### 🔗 Add Relationship Modal
+![Modal](./assets/Screenshot_3.png)
 
 ---
 
